@@ -1,4 +1,4 @@
-- 👋 Olá, sou @TECHOPC
+- 👋 Olá, sou o Leonardo e meu nick é @Meketreve
 
 - :book: Conhecimentos
 -- SQLite
